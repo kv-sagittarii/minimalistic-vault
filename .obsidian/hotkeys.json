@@ -1,0 +1,32 @@
+{
+  "editor:save-file": [],
+  "workspace:new-tab": [],
+  "editor:toggle-checklist-status": [],
+  "markdown:add-metadata-property": [],
+  "file-explorer:new-file-in-new-pane": [],
+  "workspace:goto-last-tab": [],
+  "app:go-back": [],
+  "app:go-forward": [],
+  "app:open-help": [],
+  "editor:open-link-in-new-window": [],
+  "editor:follow-link": [],
+  "workspace:previous-tab": [],
+  "workspace:next-tab": [
+      {
+      "modifiers": [
+          "Ctrl"
+      ],
+      "key": "Tab"
+      }
+  ],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-8": [],
+  "editor:open-search-replace": [],
+  "editor:toggle-comments": []
+}
