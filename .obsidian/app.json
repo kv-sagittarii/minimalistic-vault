@@ -17,5 +17,5 @@
   "autoPairMarkdown": false,
   "useMarkdownLinks": false,
   "showUnsupportedFiles": true,
-  "livePreview": false
+  "livePreview": true
 }
