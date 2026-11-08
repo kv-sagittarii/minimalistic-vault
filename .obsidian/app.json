@@ -14,8 +14,9 @@
   "settingsPopoutWindow": false,
   "smartIndentList": true,
   "useTab": false,
-  "autoPairMarkdown": false,
+  "autoPairMarkdown": true,
   "useMarkdownLinks": false,
-  "showUnsupportedFiles": true,
-  "livePreview": true
+  "showUnsupportedFiles": false,
+  "livePreview": true,
+  "newLinkFormat": "shortest"
 }
