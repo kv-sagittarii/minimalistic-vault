@@ -12,12 +12,12 @@
   "editor:follow-link": [],
   "workspace:previous-tab": [],
   "workspace:next-tab": [
-      {
+    {
       "modifiers": [
-          "Ctrl"
+        "Ctrl"
       ],
       "key": "Tab"
-      }
+    }
   ],
   "workspace:goto-tab-1": [],
   "workspace:goto-tab-2": [],
@@ -28,5 +28,16 @@
   "workspace:goto-tab-7": [],
   "workspace:goto-tab-8": [],
   "editor:open-search-replace": [],
-  "editor:toggle-comments": []
+  "editor:toggle-comments": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "editor:insert-link": [],
+  "editor:open-link-in-new-leaf": []
 }
